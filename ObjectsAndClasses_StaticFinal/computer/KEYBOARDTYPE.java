@@ -1,0 +1,3 @@
+public enum KEYBOARDTYPE {
+    MEHANIKA,MEMBRANA
+}

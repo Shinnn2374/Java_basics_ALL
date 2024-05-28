@@ -1,0 +1,3 @@
+public enum RAMVALUE {
+    TWOGB,FOURGB,EIGHTGB
+}

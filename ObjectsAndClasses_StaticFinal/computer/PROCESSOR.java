@@ -1,0 +1,11 @@
+public enum PROCESSOR {;
+    enum PROCESSORHGZ{
+        SIXTY, HUNGRED, HUNGREDTWENTY, TWOHUNGREDFORTY
+    }
+    enum PROCESSORCORE{
+        FOUR, EIGHT, SIXTEEN
+    }
+    enum PROCESSORPRODUCER{
+        AMD, INTEL
+    }
+}

@@ -1,0 +1,3 @@
+public enum STORAGEWEIGHT {
+    FIFTY,HUNGRED,TWOHUNGRED
+}
